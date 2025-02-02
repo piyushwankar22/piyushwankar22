@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Wankar</h1>
-<h3 align="center">A Passionate Java Backend Developer</h3>
+<h3 align="center">A Passionate Java Backend Developer from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=piyushwankar22&label=Profile%20views&color=0e75b6&style=flat" alt="piyushwankar22" />
@@ -19,19 +19,21 @@ I'm a **Java Developer** with experience in **backend development**, specializin
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40"/> | <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" width="40"/> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="React" width="40"/>  
 |--|--|--|
 
-### **Tools & Platforms**
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40"/> | <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40"/>  
+### **Web Technologies**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40"/>  
 |--|--|
+
+### **Tools & Platforms**
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40"/> | <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40"/>  
+|--|--|--|--|
 
 ### **Cloud & DevOps (Learning)**
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker" width="40"/> | <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker" width="40"/> | <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  
 |--|--|
 
-## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyushwankar22&show_icons=true&theme=radical&include_all_commits=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushwankar22&theme=radical"/>
-</p>
+### **Databases & Additional Tools**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL" width="40"/>  
+|--|--|
 
 ## 🌐 **Let's Connect**
 <p align="left">
